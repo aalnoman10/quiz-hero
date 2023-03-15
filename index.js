@@ -183,3 +183,9 @@ document.querySelector("#submit").addEventListener("click", () => {
   }, 1500);
   window.scrollTo(0, 0);
 });
+
+// EventListener for quiz blog button
+const blogPage = () => {
+  window.location.href = "blog.html"
+}
+// blog-btn
