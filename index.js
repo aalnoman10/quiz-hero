@@ -188,4 +188,3 @@ document.querySelector("#submit").addEventListener("click", () => {
 const blogPage = () => {
   window.location.href = "blog.html"
 }
-// blog-btn
